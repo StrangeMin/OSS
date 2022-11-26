@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#https://github.com/StrangeMin/OSS.git
+#https://github.com/StrangeMin/OSS
 
 import sys
 import pandas as pd
